@@ -46,6 +46,6 @@ def square_root(a):
 # TODO: Students will add multiply, divide, power, sqrt functions
 
 if __name__ == "__main__":
-    print("🧮 Calculator Module")
+    print("Calculator Module")
     print(f"2 + 3 = {add(2, 3)}")
     print(f"5 - 2 = {subtract(5, 2)}")
